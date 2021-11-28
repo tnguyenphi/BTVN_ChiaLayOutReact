@@ -1,0 +1,9 @@
+html
+js
+=> jsx
+
+
+======Buổi===== 1:
+Component : 
+- staeful compoment : class
+ - stateless Component: function
